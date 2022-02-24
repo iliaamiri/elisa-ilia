@@ -54,4 +54,19 @@ Interestingly, Windows Server Operation System family was the dominating server.
 
 For an super user, it is necessary to be familiar with the common basic commands of an Operation System. Since a Linux user, at some point, had to use a Command-line Interface (CLI), learning Windows' CLI commands will be a fast learning curve.
 
+## Typographical Conventions
+In this user guide, we'll be using the following typographical conventions:
+
+// a table with the typographical conventions that we'll make after we finished this.
+
+---
+
+## Conclusion
+
+Although Windows is not free as Linux, it is a bonus for a Linux super user to be familiar with the Windows' basic commands. Of course, there is no superiority over choosing either of them, because it is just a matter of preference and familiarity.
+
+Therefore, let's jump into the contents and get more familiar with Windows. To begin with, we recommend learning how to [Navigate through the Filesystem][navigating], first.
+
+[navigating]: /docs/navigating
+
 
