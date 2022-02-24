@@ -42,18 +42,18 @@ Before you dive into this guide, there are some requirements to determine whethe
 
 ---
 
-## File CRUD Operations
+# File CRUD Operations
 
-## Creating a Batch File
+# Creating a Batch File
 
-## Managing Users & Accesses
+# Managing Users & Accesses
 
-## Common Basic Networking
+# Common Basic Networking
 
-## Shutdown & Restart
+# Shutdown & Restart
 
-## Glossary
+# Glossary
 
-## Troubleshooting guide
+# Troubleshooting guide
 
-## Sources
+# Sources
