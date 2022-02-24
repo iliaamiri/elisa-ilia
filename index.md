@@ -24,7 +24,6 @@ Windows is a closed-source, graphical, and paid Operating System owned and marke
 ---
 ## Intended Users
 
-Suggestion:  
 This user guide is meant for the people who are already have intermediate knowledge of Linux Operation Systems and its Terminal Commands, and they are willing to expand their knowledge to the Windows Command Prompt and its basic commands.
 
 By the end of reading this user guide, you will be able to:
