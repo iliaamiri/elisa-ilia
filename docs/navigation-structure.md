@@ -1,6 +1,6 @@
 ---
 layout: default
-title: USER CRUD
+title: User CRUD
 nav_order: 5
 ---
 
