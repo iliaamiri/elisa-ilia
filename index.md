@@ -7,6 +7,7 @@ permalink: /
 ---
 
 # **Introduction**
+---
 
 Welcome to the basic guide of windows command. This documentation will help you get started with basic concepts and commands that will be used throughout your journey. 
 
