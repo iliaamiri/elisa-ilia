@@ -38,13 +38,6 @@ By the end of reading this user guide, you will be able to:
 
 ---
 
-Before you dive into this guide, there are some requirements to determine whether this guide is for you or not: 
-
-* Basic computer knowledge
-* Tech-savvy 
-* Linux/Mac users
-
----
 
 
 
