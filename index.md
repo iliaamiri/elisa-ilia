@@ -43,18 +43,4 @@ Before you dive into this guide, there are some requirements to determine whethe
 {:toc}
 
 
-# File CRUD Operations
 
-# Creating a Batch File
-
-# Managing Users & Accesses
-
-# Common Basic Networking
-
-# Shutdown & Restart
-
-# Glossary
-
-# Troubleshooting guide
-
-# Sources
