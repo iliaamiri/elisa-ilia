@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Configuration
+title: Navigation Through File System
 nav_order: 2
 ---
 
-# Configuration
+# **Navigation Through Files System**
 {: .no_toc }
 
 
