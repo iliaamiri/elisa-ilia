@@ -54,6 +54,8 @@ Interestingly, Windows Server Operation System family was the dominating server.
 
 For an super user, it is necessary to be familiar with the common basic commands of an Operation System. Since a Linux user, at some point, had to use a Command-line Interface (CLI), learning Windows' CLI commands will be a fast learning curve.
 
+Also, many information are not available for you unless you use the command-line.
+
 ## Typographical Conventions
 In this user guide, we'll be using the following typographical conventions:
 
