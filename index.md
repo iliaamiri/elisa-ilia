@@ -24,6 +24,7 @@ Windows is a closed-source, graphical, and paid Operating System owned and marke
 ---
 ## Intended Users
 
+
 This user guide is meant for the people who are already have intermediate knowledge of Linux Operation Systems and its Terminal Commands, and they are willing to expand their knowledge to the Windows Command Prompt and its basic commands.
 
 By the end of reading this user guide, you will be able to:
@@ -39,6 +40,7 @@ By the end of reading this user guide, you will be able to:
 
 ## History of Windows
 
+
 Windows, also known as Microsoft Windows and Windows OS, was first released in 1985 as an extension from Microsoft's existing disk operating system called MS-DOS. 
 
 This was a huge change for Microsoft because Windows provided a virtual desktop for users, which allowed a GUI(Graphical User Interface) in comparasion to typing commands and directory paths. 
@@ -46,6 +48,8 @@ This was a huge change for Microsoft because Windows provided a virtual desktop 
 ---
 
 ## Why Learn Windows?
+
+
 Interestingly, Windows Server Operation System family was the dominating server. A research expert, Thomas Alsop, said that Windows "was used on 72.1 percent of servers worldwide," which implies that this Operation System standed out recently.
 
 For an super user, it is necessary to be familiar with the common basic commands of an Operation System. Since a Linux user, at some point, had to use a Command-line Interface (CLI), learning Windows' CLI commands will be a fast learning curve.
