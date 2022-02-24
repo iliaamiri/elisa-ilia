@@ -33,4 +33,4 @@ Before you dive into this guide, there are some requirements to determine whethe
 * Basic computer knowledge
 * Tech-savvy 
 * Linux/Mac users
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+
