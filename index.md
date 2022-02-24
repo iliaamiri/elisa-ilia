@@ -14,6 +14,14 @@ Welcome to the basic guide of windows command. This documentation will help you 
 
 Windows is a closed-source, graphical, and paid Operating System owned and marketed by Microsoft and is widely used by both businesses and individuals.
 
+---
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 ## Intended Users
 
 Suggestion:  
@@ -38,11 +46,6 @@ Before you dive into this guide, there are some requirements to determine whethe
 
 ---
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 
 
