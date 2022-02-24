@@ -34,13 +34,14 @@ Before you dive into this guide, there are some requirements to determine whethe
 * Tech-savvy 
 * Linux/Mac users
 
+---
+
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
----
 
 # File CRUD Operations
 
