@@ -39,3 +39,21 @@ Before you dive into this guide, there are some requirements to determine whethe
 
 1. TOC
 {:toc}
+
+---
+
+## File CRUD Operations
+
+## Creating a Batch File
+
+## Managing Users & Accesses
+
+## Common Basic Networking
+
+## Shutdown & Restart
+
+## Glossary
+
+## Troubleshooting guide
+
+## Sources
