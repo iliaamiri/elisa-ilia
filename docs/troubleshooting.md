@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Batch File Creation
-nav_order: 3
+title: Troubleshooting
+nav_order: 9
 ---
 
-# **How to Create a Batch file?**
+# **Common Troubleshooting**
 {: .no_toc }
 
 {: .fs-6 .fw-300 }

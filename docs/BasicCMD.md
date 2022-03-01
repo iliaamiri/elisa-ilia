@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Batch File Creation
-nav_order: 3
+title: Basic Commands for Networking
+nav_order: 7
 ---
 
-# **How to Create a Batch file?**
+# **How to Connect to the BCIT Network?**
 {: .no_toc }
 
 {: .fs-6 .fw-300 }
