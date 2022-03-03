@@ -59,7 +59,7 @@ First, press `Win + D` to display your desktop. Then right-click your desktop. T
 
 ![Text file created and is ready to get a new name](https://i.imgur.com/iWYxMnL.jpg)
 
-##### After renaming: 
+ After renaming: 
 ![Text file created and renamed GUI](https://i.imgur.com/ViZxvCu.jpg)
 
 
@@ -75,12 +75,12 @@ First, double-click on the new file and start the text file with `@echo off`. It
 
 
 ---
-#### Let's use the common batch commands you learned!
+### Let's use the common batch commands you learned!
 
 Remove your first line of text by pressing `ctrl + A` then `ctrl + X`. Copy and paste the code provided below into the text file you just created. 
 
 
-```cmd
+```
 @echo 
 
 title this is an example! 
