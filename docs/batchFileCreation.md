@@ -59,7 +59,9 @@ First, press `Win + D` to display your desktop. Then right-click your desktop. T
 
 ![Text file created and is ready to get a new name](https://i.imgur.com/iWYxMnL.jpg)
 
+
  After renaming: 
+ 
 ![Text file created and renamed GUI](https://i.imgur.com/ViZxvCu.jpg)
 
 
