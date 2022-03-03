@@ -21,7 +21,7 @@ This section will show you how to shutdown and restart using the terminal with o
 
 ### Step 1 - Open Command Prompt
 
-You just need to get into the search bar and search `cmd`. If you're unsure how to open your command prompt, refer back to [opening CMD](https://iliaamiri.github.io/elisa-ilia/docs/navigateThroughFilesystem/#searching-and-opening-cmd-using-windows-search)
+You just need to get into the search bar and search `cmd`. If you're unsure how to open your command prompt, refer back to [opening CMD](https://iliaamiri.github.io/elisa-ilia/docs/navigateThroughFilesystem/#searching-and-opening-cmd-using-windows-search).
 
 ### Step 2 - Type in Desired Commands
 
