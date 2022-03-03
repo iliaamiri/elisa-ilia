@@ -36,7 +36,8 @@ Although you can create a user using Window's control panel, it is easier to cre
 
 
 ### Step 1 - Open Command Prompt
-Refer to [link to past instructions](#test) for instructions on how to open command prompt as Administrator. 
+Refer to [opening CMD](https://iliaamiri.github.io/elisa-ilia/docs/navigateThroughFilesystem/#searching-and-opening-cmd-using-windows-search)
+ for instructions on how to open command prompt as Administrator. 
 
 ![CMD opened as Administrator](https://imgur.com/jTz7xym.png)
 
