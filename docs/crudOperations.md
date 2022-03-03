@@ -34,7 +34,7 @@ To read the contents of an existing file, use this format:
 C:\Any_Path> type <the path to the existing file>
 ```
 
-Example:
+Example:  
 ![Example of reading the content of an existing file using `type`](https://imgur.com/pR2teC8.png)
 
 ## Creating a new Folder using `mkdir`
