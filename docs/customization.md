@@ -7,6 +7,9 @@ nav_order: 6
 # **How to Shutdown and Restart Your Computer Through Terminal**
 {: .no_toc }
 
+Now that you've created a user, you'd want to try rebooting and log into your new account.
+
+This section will show you how to shutdown and restart using the terminal with only 2 steps. 
 ---
 ## Table of contents
 {: .no_toc .text-delta }
@@ -16,4 +19,20 @@ nav_order: 6
 
 ---
 
-## testing
+### Step 1 - Open Command Prompt
+
+You just need to get into the search bar and search `cmd`. If you're unsure how to open your command prompt, refer to [link to navigation for instructions]
+
+### Step 2 - Type in Desired Commands
+
+Type into terminal with desired commands and press `enter`: 
+
+`shutdown -r` to **restart**
+`shutdown -s` to **shutdown**
+
+
+**Note**: If you want to have a delay in shutdown or restart you can type your command with `shutdown /r -t 60`. The `-t 60` is to tell the computer to restart in *60 seconds*. 
+
+![restart](https://i.imgur.com/EFtIJE4.jpg)
+
+You have now learned the basic Windows navigation commands, file/user CRUD, batch files, and shutdown/restart commands.  Thank you for completing the guide and hope it has expanded your Windows terminal knowledge. 
