@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Shutdown/Restart
-nav_order: 6
+nav_order: 29
 ---
 
 # **How to Shutdown and Restart Your Computer Through Terminal**
