@@ -8,8 +8,8 @@ nav_order: 6
 {: .no_toc }
 
 Now that you've created a user, you'd want to try rebooting and log into your new account.
-
 This section will show you how to shutdown and restart using the terminal with only 2 steps. 
+
 ---
 ## Table of contents
 {: .no_toc .text-delta }
