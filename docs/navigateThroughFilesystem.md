@@ -84,6 +84,7 @@ This output also shows you other details such as:
 The phrase "cd" is an abbreviation for "change directory", which is used to change the current directory to another given directory path. As it is the same for Linux, you can change directories using the signature `cd <the-path-to-another-directory>`.
 
 For example, in the following image, we are changing the directory from `C:\Users\User` to `C:\Users\User\Desktop`.
+
 ![Example of changing direcotries using cd](https://i.imgur.com/N7mGcJ5.png)
 
 Now, we are in our Desktop directory, which is an equivalent for `~/Desktop` in a Linux filesystem.
