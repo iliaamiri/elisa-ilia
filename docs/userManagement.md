@@ -19,6 +19,7 @@ In this section, you'll learn how to:
 
 ![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
 >> **Note**: To perform any of the tasks above, you'll need to run CMD as Administrator. 
+<br>
 
 {: .fs-6 .fw-300 }
 
@@ -44,6 +45,7 @@ Refer to [opening CMD](https://iliaamiri.github.io/elisa-ilia/docs/navigateThrou
 
 ![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
 >> **Note**: You'll see that the CMD opens on `C:\Windows\system32`. As mentioned in previous sections, this is the default directory path when CMD runs as Administrator.
+<br>
 
 ### Step 2 - Create a Local User
 
@@ -83,6 +85,7 @@ Also, you can use the ** account.
 
 ![Warning icon](https://imgur.com/4lS7y5J.png){: style="float: left" }
 >> **Warning**: A Windows built-in Administrator can control *everything*! It's similar to the term "sudoer" in Linux, so be careful with whom you are giving this perk to.
+<br>
 
 To make your User a built-in Administrator, use the following command:
 ```cmd
