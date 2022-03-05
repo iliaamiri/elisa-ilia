@@ -35,6 +35,7 @@ You should see a small menu, which is called "Windows Search", usually at the bo
 
 ![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
 >> **Note**: Depending on your task bar position, the Windows Search might appear in other corners of your screen.
+<br>
 
 ![Windows Search](https://i.imgur.com/l5W6r8F.png)
 
@@ -69,6 +70,7 @@ The output of this command is a full list of all files and directories available
 
 ![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
 >> **Note**: We will go through the Filesystem Hierarchy in Windows and you will be more familiar with the term User Directory later in this guide.
+<br>
 
 This output also shows you other details such as:
 * The label of the volume of drive
@@ -105,6 +107,7 @@ Before going through the folders of `C` parition, which is also known as "boot p
 
 ![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
 >> **Note**: Don't get surprised to see other files and folders in this partition as it is a possibility that some drivers or applications could be stored under the root folder of `C` drive (e.g.: Python, Netcat, etc.).
+<br>
 
 The `C` drive may contain these 5 major directories:
 
@@ -117,6 +120,7 @@ This folder is usually empty, but in some cases, it contains a few kilobytes of 
 
 ![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
 >> **Note**: The PerfLogs folder is only accessable to read by Administrator users. To navigate through this folder in CMD, you should first run CMD as Administrator.
+<br>
 
 #### Running CMD as Administrator
 To run the CMD as Administrator there's a small action you need to take when you are opening CMD as mentioned in the *Searching and Opening CMD using Windows Search* section.
@@ -140,6 +144,7 @@ Well-done!
 
 ![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
 >> **Note**: By default, when you open CMD as Administrator, the current directory path will be `C:\Windows\system32`. This directory contains the most crucial files of your Operation System that are only accessable to Administrators.
+<br>
 
 ![Warning icon](https://imgur.com/4lS7y5J.png){: style="float: left" }
 >> **Warning**: Be very careful and precise with your actions now! Since you are an Administrator, you can do *everything*, which means you might accidently delete something that you should not, or change settings that can cause undesirable effects on your future experience with Windows.
@@ -157,6 +162,7 @@ Here's an example of how a `\Program Files` might look like on a 64-bits Windows
 
 ![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
 >> **Note**: You may have noticed the double-quotes in `cd "Program Files"` command. In CMD, it is better to wrap the destination directory between double-quotations whenever there is a space between the name of that directory to avoid mis-understanding for CMD.
+<br>
 
 ### \Program Files (x86)
 This folder only exists on 64-bits editions of Windows. By default, any 32-bits and 16-bits will be installed in this folder though the 16-bits program will not run on a 64-bits Windows.
@@ -172,6 +178,7 @@ A program does not have access to store files in this folder, but can create a s
 
 ![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
 >> **Note**: This folder is hidden. Use the `/a` flag in `dir` to see every hidden folder and links.
+<br>
 
 Here's how a `\ProgramData` folder might look like:
 
