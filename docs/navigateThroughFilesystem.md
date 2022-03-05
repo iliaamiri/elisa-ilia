@@ -66,7 +66,8 @@ Here's an example of executing the `dir` command in the CMD we just opened:
 
 The output of this command is a full list of all files and directories available, alphabetically sorted, in the current file path, which in this case is `C:\Users\User` (your User Direcotry).
 
-**Note:** We will go through the Filesystem Hierarchy in Windows and you will be more familiar with the term User Directory later in this guide.
+![Note icon](https://imgur.com/4lS7y5J){: style="float: left" }
+>> **Note**: We will go through the Filesystem Hierarchy in Windows and you will be more familiar with the term User Directory later in this guide.
 
 This output also shows you other details such as:
 * The label of the volume of drive
