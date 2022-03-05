@@ -73,6 +73,7 @@ First, double-click on the new file and start the text file with `@echo off`. It
 
 ![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
 >> **Note**: Having `@echo off` will ensure that batch file does reveal all the command prompts. 
+<br>
 
 ![Opening the text file and starting to write batch commands](https://i.imgur.com/20scGST.jpg)
 
@@ -105,6 +106,7 @@ pause
 
 ![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
 >> **Note**: Notice how the `@echo` does not have `off` beside it? 
+<br>
 
 ---
 #### Change the file from text to a batch file
@@ -118,6 +120,7 @@ This allows you to rename your file. **Make** sure to end your file name with `.
 
 ![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
 >> **Note**: File will **not** be a batch file if it does not end in `.bat`.
+<br>
 
 ![](https://i.imgur.com/8pbvzRg.jpg)
 
@@ -143,7 +146,7 @@ Here is what you're supposed to see in your terminal:
 
 ![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
 >> **Note**: Notice that the terminal looks messy. However, `cls` cleared some of the command prompts. Not only that, it is messy because we didn't have `@echo off`. In addition, `rem` command is displayed in the terminal when it's not supposed to. Next steps will show you the difference of `@echo` and `@echo off`. 
-
+<br>
 
 ### Change back to @echo off
 
