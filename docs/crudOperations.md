@@ -54,6 +54,7 @@ The command above will create a new folder under `C:\Users\User`, which is our u
 
 ![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
 >> **Note**: Most of the command-lines will not show you any output when they do their jobs successfully and without errors. They are silent unless there's a problem!
+<br>
 
 ## Creating a new File using `echo`
 To create a file using `echo`, use this syntax:
@@ -108,6 +109,7 @@ Unfortunetly, there are no pre-installed text editors for CMD. There used to be 
 
 ![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
 >> **Note**: In the good old days, people used to call Windows' shell "MS-DOS" instead of Command Prompt (CMD).
+<br>
 
 But, we can still append and update the files using CMD. Doesn't hurt to learn those!
 
@@ -168,6 +170,7 @@ As you can see, CMD is not happy with this. It's telling us that "the directory 
 
 ![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
 >> **Note**: The `tree tmp /f` command is used to clarify that the `tmp` folder contains a sub-folder "folder_2" and a file called "important_information.txt" nested in it.
+<br>
 
 The philosophy of this is that Windows guesses that there might be important files or sub-folders that you should make sure you want to delete them too. One way to fix this is to manually delete every files and empty sub-folders first, and then run this command again.
 
@@ -175,9 +178,11 @@ However, what if there are so many files and sub-folders *and* you are completel
 
 ![Warning icon](https://imgur.com/4lS7y5J.png){: style="float: left" }
 >> **Warning**: Be advised that once you run `rmdir` on a folder with `/s` flag, it will completely delete not just that folder but *all of its existing nested sub-folders and files*, and this action is not recoverable! Make sure what folder you are deleting, checking all the sub-folders and files using `tree <directory path> /f` command.
+<br>
 
 ![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
 >> **Note**: Running `rmdir` with `/s` flag will ask you to confirm your decision. However, you should still be careful.
+<br>
 
 Having said all that, let's delete the `tmp` folder forcefully:
 ![force deleting a directory](https://imgur.com/KFpuRWs.png)
