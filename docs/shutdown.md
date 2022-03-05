@@ -32,6 +32,7 @@ Type into terminal with desired commands and press `enter`:
 
 ![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
 >> **Note**: If you want to have a delay in shutdown or restart you can type your command `shutdown /r -t 60`. The `-t 60` is to tell the computer to restart in *60 seconds*.
+<br>
 
 ![restart](https://i.imgur.com/EFtIJE4.jpg)
 
