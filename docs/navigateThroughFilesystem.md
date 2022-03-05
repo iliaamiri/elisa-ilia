@@ -141,7 +141,7 @@ Well-done!
 ![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
 >> **Note**: By default, when you open CMD as Administrator, the current directory path will be `C:\Windows\system32`. This directory contains the most crucial files of your Operation System that are only accessable to Administrators.
 
-![Note icon](https://imgur.com/4lS7y5J.png){: style="float: left" }
+![Warning icon](https://imgur.com/4lS7y5J.png){: style="float: left" }
 >> **Warning**: Be very careful and precise with your actions now! Since you are an Administrator, you can do *everything*, which means you might accidently delete something that you should not, or change settings that can cause undesirable effects on your future experience with Windows.
 
 Anyway, let's get back on our topic.
