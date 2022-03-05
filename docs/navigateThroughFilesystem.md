@@ -53,6 +53,33 @@ You will see a new window that opens and has a black background.
 
 *Welcome to CMD!*
 
+## Running CMD as Administrator
+To run the CMD as Administrator there's a small action you need to take when you are opening CMD as mentioned in the *Searching and Opening CMD using Windows Search* section.
+
+<p style="font-size:17px!imortant;"><b>Don't open CMD right-away</b></p>
+Before clicking on the Command Prompt application, right click on it, and then choose "Run as Administrator".
+
+![Openning CMd as Administrator](https://imgur.com/Sg70sT4.png)
+
+<p style="font-size:17px!imortant;"><b>Allow CMD to run as Administrator</b></p>
+Whenever you want to open an application as Administrator, Windows will confirm with you whether you allow that application to have Administrato level of control on your Operation System or not.
+
+Allow Command Prompt application to run as Administrator by clicking "Yes".
+
+![Allowing CMD to run as Administrator](https://imgur.com/Oz9UDaX.png)
+
+<p style="font-size:17px!imortant;"><b>Result</b></p>
+![CMD opened as Administrator](https://imgur.com/jTz7xym.png)
+
+Well-done!
+
+![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
+>> **Note**: By default, when you open CMD as Administrator, the current directory path will be `C:\Windows\system32`. This directory contains the most crucial files of your Operation System that are only accessable to Administrators.
+<br>
+
+![Warning icon](https://imgur.com/4lS7y5J.png){: style="float: left" }
+>> **Warning**: Be very careful and precise with your actions now! Since you are an Administrator, you can do *everything*, which means you might accidently delete something that you should not, or change settings that can cause undesirable effects on your future experience with Windows.
+
 Before we get started, here's a helpful terminology table that elaborates on the terms we will use later on in this section.
 
 ![Helpful Terminologies](https://i.imgur.com/6OS5ozK.png)
@@ -119,37 +146,8 @@ The purpose of these files is to gather all these performance issue logs and sen
 This folder is usually empty, but in some cases, it contains a few kilobytes of performance logs data, which will not take significant amount of disk space.
 
 ![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
->> **Note**: The PerfLogs folder is only accessable to read by Administrator users. To navigate through this folder in CMD, you should first run CMD as Administrator.
+>> **Note**: The PerfLogs folder is only accessable to read by Administrator users. To navigate through this folder in CMD, you should first run CMD as Administrator. Refer to our instruction to perform the action said.
 <br>
-
-<p style="font-size:17px!imortant;"><b>Running CMD as Administrator</b></p>
-To run the CMD as Administrator there's a small action you need to take when you are opening CMD as mentioned in the *Searching and Opening CMD using Windows Search* section.
-
-<p style="font-size:17px!imortant;"><b>Don't open CMD right-away</b></p>
-Before clicking on the Command Prompt application, right click on it, and then choose "Run as Administrator".
-
-![Openning CMd as Administrator](https://imgur.com/Sg70sT4.png)
-
-<p style="font-size:17px!imortant;"><b>Allow CMD to run as Administrator</b></p>
-Whenever you want to open an application as Administrator, Windows will confirm with you whether you allow that application to have Administrato level of control on your Operation System or not.
-
-Allow Command Prompt application to run as Administrator by clicking "Yes".
-
-![Allowing CMD to run as Administrator](https://imgur.com/Oz9UDaX.png)
-
-<p style="font-size:17px!imortant;"><b>Result</b></p>
-![CMD opened as Administrator](https://imgur.com/jTz7xym.png)
-
-Well-done!
-
-![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
->> **Note**: By default, when you open CMD as Administrator, the current directory path will be `C:\Windows\system32`. This directory contains the most crucial files of your Operation System that are only accessable to Administrators.
-<br>
-
-![Warning icon](https://imgur.com/4lS7y5J.png){: style="float: left" }
->> **Warning**: Be very careful and precise with your actions now! Since you are an Administrator, you can do *everything*, which means you might accidently delete something that you should not, or change settings that can cause undesirable effects on your future experience with Windows.
-
-Anyway, let's get back on our topic.
 
 ### \Program Files
 This folder contains all installed programs (both 64-bits and 32-bits architecture).
