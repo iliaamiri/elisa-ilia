@@ -32,8 +32,7 @@ By the end of reading this user guide, you will be able to:
 * Navigate through the Filesystem via CMD.
 * Create, read, update, and delete a file or folder on Windows.
 * Know what a batch file is, and how to create one.
-* Define, modify, and remove a user from the Operation System.
-* Benefit from a few basic networking commands such as: `ping`, `ipconfig`, `getmac`, `nslookup`, `tracert`, `netstat`, and `pathping`.
+* Define and modify a user from the Operation System.
 * Shutdown and/or restart the computer via CMD.
 
 ---
