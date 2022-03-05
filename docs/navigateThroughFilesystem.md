@@ -99,6 +99,7 @@ A root folder can be seen as `drive:\` format, which is defined by the name of t
 Before going through the folders of `C` parition, which is also known as "boot partition", let's change our current directory to `C:\`, and do a `dir` command there.
 
 ![cd to C then dir](https://i.imgur.com/lfDFNlU.png)
+
 **Note:** Don't get surprised to see other files and folders in this partition as it is a possibility that some drivers or applications could be stored under the root folder of `C` drive (e.g.: Python, Netcat, etc.).
 
 The `C` drive may contain these 5 major directories:
