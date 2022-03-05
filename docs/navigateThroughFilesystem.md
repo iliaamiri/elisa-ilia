@@ -122,22 +122,22 @@ This folder is usually empty, but in some cases, it contains a few kilobytes of 
 >> **Note**: The PerfLogs folder is only accessable to read by Administrator users. To navigate through this folder in CMD, you should first run CMD as Administrator.
 <br>
 
-#### Running CMD as Administrator
+<p style="font-size:16px!imortant;">Running CMD as Administrator</p>
 To run the CMD as Administrator there's a small action you need to take when you are opening CMD as mentioned in the *Searching and Opening CMD using Windows Search* section.
 
-##### Don't open CMD right-away
+<p style="font-size:16px!imortant;">Don't open CMD right-away</p>
 Before clicking on the Command Prompt application, right click on it, and then choose "Run as Administrator".
 
 ![Openning CMd as Administrator](https://imgur.com/Sg70sT4.png)
 
-##### Allow CMD to run as Administrator
+<p style="font-size:16px!imortant;">Allow CMD to run as Administrator</p>
 Whenever you want to open an application as Administrator, Windows will confirm with you whether you allow that application to have Administrato level of control on your Operation System or not.
 
 Allow Command Prompt application to run as Administrator by clicking "Yes".
 
 ![Allowing CMD to run as Administrator](https://imgur.com/Oz9UDaX.png)
 
-##### Result
+<p style="font-size:16px!imortant;">Result</p>
 ![CMD opened as Administrator](https://imgur.com/jTz7xym.png)
 
 Well-done!
