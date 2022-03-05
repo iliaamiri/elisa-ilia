@@ -71,7 +71,8 @@ First, press `Win + D` to display your desktop. Then right-click your desktop. T
 
 First, double-click on the new file and start the text file with `@echo off`. It should be the first line of the file. 
 
-**Note**: having `@echo off` will ensure that batch file does reveal all the command prompts. 
+![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
+>> **Note**: Having `@echo off` will ensure that batch file does reveal all the command prompts. 
 
 ![Opening the text file and starting to write batch commands](https://i.imgur.com/20scGST.jpg)
 
@@ -102,7 +103,8 @@ echo that popped up the website!
 pause
 ```
 
-**Note**: notice how the `@echo` does not have `off` beside it? 
+![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
+>> **Note**: Notice how the `@echo` does not have `off` beside it? 
 
 ---
 #### Change the file from text to a batch file
@@ -114,7 +116,8 @@ Head to `File` in the top bar, `Save` then press `Save As`.
 
 This allows you to rename your file. **Make** sure to end your file name with `.bat`. Ending it with `.bat` will automatically change it into a batch file. After, press `Save` when you're done renaming. There should be a new batch file made in desktop. 
 
-**Note**: file will **not** be a batch file if it does not end in `.bat`.
+![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
+>> **Note**: File will **not** be a batch file if it does not end in `.bat`.
 
 ![](https://i.imgur.com/8pbvzRg.jpg)
 
@@ -138,7 +141,8 @@ Here is what you're supposed to see in your terminal:
 ![batch 2](https://i.imgur.com/IMEy6rb.jpg)
 
 
-**Note**: Notice that the terminal looks messy. However, `cls` cleared some of the command prompts. Not only that, it is messy because we didn't have `@echo off`. In addition, `rem` command is displayed in the terminal when it's not supposed to. Next steps will show you the difference of `@echo` and `@echo off`. 
+![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
+>> **Note**: Notice that the terminal looks messy. However, `cls` cleared some of the command prompts. Not only that, it is messy because we didn't have `@echo off`. In addition, `rem` command is displayed in the terminal when it's not supposed to. Next steps will show you the difference of `@echo` and `@echo off`. 
 
 
 ### Change back to @echo off
