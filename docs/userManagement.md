@@ -17,7 +17,8 @@ In this section, you'll learn how to:
 * Limit a User
 * Remove a User
 
-**Note**: To perform any of the tasks above, you'll need to run CMD as Administrator.
+![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
+>> **Note**: To perform any of the tasks above, you'll need to run CMD as Administrator. 
 
 {: .fs-6 .fw-300 }
 
@@ -41,7 +42,8 @@ Refer to [opening CMD](https://iliaamiri.github.io/elisa-ilia/docs/navigateThrou
 
 ![CMD opened as Administrator](https://imgur.com/jTz7xym.png)
 
-**Note**: You'll see that the CMD opens on `C:\Windows\system32`. As mentioned in previous sections, this is the default directory path when CMD runs as Administrator.
+![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
+>> **Note**: You'll see that the CMD opens on `C:\Windows\system32`. As mentioned in previous sections, this is the default directory path when CMD runs as Administrator.
 
 ### Step 2 - Create a Local User
 
@@ -79,7 +81,8 @@ Example: We will be using the following new User to change into an admin.
 
 Also, you can use the ** account.
 
-**Caution**: A Windows built-in Administrator can control *everything*! It's similar to the term "sudoer" in Linux, so be careful with whom you are giving this perk to.
+![Warning icon](https://imgur.com/4lS7y5J.png){: style="float: left" }
+>> **Warning**: A Windows built-in Administrator can control *everything*! It's similar to the term "sudoer" in Linux, so be careful with whom you are giving this perk to.
 
 To make your User a built-in Administrator, use the following command:
 ```cmd
