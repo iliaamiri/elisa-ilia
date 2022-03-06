@@ -60,6 +60,15 @@ In this user guide, we'll be using the following typographical conventions:
 
 // a table with the typographical conventions that we'll make after we finished this.
 
+
+![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
+>> **Note**: This is a note. Notes give you helpful information about the instructions you are reading.
+<br>
+
+![Warning icon](https://imgur.com/4lS7y5J.png){: style="float: left" }
+>> **Warning**: This is a warning. They warn you about important consequences and things that might happend if you don't pay attention.
+<br>
+
 ---
 
 ## Conclusion
