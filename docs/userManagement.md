@@ -58,7 +58,9 @@ Example: Let's make a new User and call it example. Our user will use "badpasswo
 
 ![New user created](https://i.imgur.com/DJHrzdi.jpg)
 
-#### Create your User in a more Secure Way
+
+<h4 style="font-size:17px!imortant;"><b> Create your User in a more Secure Way</b></h4>
+
 Writing the password of your new User in one line is not very secure. A better alternative is to enter their password in a hidden prompt input.
 
 Example: Let's make another new User and call it Mark. Mark asked us to avoid typing his password directly in the one-linear `net` command!
