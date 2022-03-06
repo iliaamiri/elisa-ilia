@@ -55,18 +55,16 @@ For an super user, it is necessary to be familiar with the common basic commands
 
 Also, many information are not available for you unless you use the command-line.
 
-## Typographical Conventions
-In this user guide, we'll be using the following typographical conventions:
+## Notes and Warnings
 
-// a table with the typographical conventions that we'll make after we finished this.
-
+Lookout for these icons when following the guide. If not followed, there may be consequences. 
 
 ![Note icon](https://imgur.com/rDBhoIa.png){: style="float: left" }
 >> **Note**: This is a note. Notes give you helpful information about the instructions you are reading.
 <br>
 
 ![Warning icon](https://imgur.com/4lS7y5J.png){: style="float: left" }
->> **Warning**: This is a warning. They warn you about important consequences and things that might happend if you don't pay attention.
+>> **Warning**: This is a warning. They warn you about important consequences and things that might happen if you don't pay attention.
 <br>
 
 ---
