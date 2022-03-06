@@ -59,7 +59,7 @@ Example: Let's make a new User and call it example. Our user will use "badpasswo
 ![New user created](https://i.imgur.com/DJHrzdi.jpg)
 
 
-#### <p style="font-size:17px!important;"> Create your User in a more Secure Way</p>
+#### <span style="font-size:17px!important;"> Create your User in a more Secure Way</span>
 
 Writing the password of your new User in one line is not very secure. A better alternative is to enter their password in a hidden prompt input.
 
