@@ -109,7 +109,7 @@ pause
 <br>
 
 ---
-#### <b style="font-size:17px!important;">Change the file from text to a batch file</b>
+#### <p style="font-size:17px!important;">Change the file from text to a batch file</p>
 
 Head to `File` in the top bar, `Save` then press `Save As`. 
 
