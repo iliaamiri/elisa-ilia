@@ -99,4 +99,5 @@ To take this privilege from your User, change the value of `/active` flag to "no
 C:\Windows\system32> net <username> administrator /active:no
 ```
 
+
 You now know how to create a user, head to [shutdown & restart](https://) and reboot to log into your new account. 
